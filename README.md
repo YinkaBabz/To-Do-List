@@ -23,6 +23,6 @@ It demonstrates fundamental web development skills such as database connectivity
 http://localhost/todo-list-app/
 
 ## Author
-Developed by Yinka Babatunde — part of a personal collection of beginner-friendly Python projects.
+Developed by Yinka Babatunde 
 Email: yinkababzz007@gmail.com
 LinkedIn: https://www.linkedin.com/in/olayinka-babatunde-100a791b7
