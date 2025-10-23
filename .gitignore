@@ -1,0 +1,8 @@
+# Ignore environment and system files
+.env
+*.log
+*.sql
+vendor/
+node_modules/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+PHP >= 7.4
+MySQL >= 5.7
+Apache (via XAMPP, WAMP, or LAMP)
+Web Browser (Chrome, Edge, or Firefox)
